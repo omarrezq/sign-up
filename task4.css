@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    background-color: rgb(209, 204, 204);
+ 
+}
+.full{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(144, 121, 199) ;
+    border-radius: 50%;
+    margin-left: 960px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.not{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(209, 204, 204) ;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: 40px;
+    box-shadow: 0px 0px 0px 50px rgb(170, 27, 170);
+}
+.pig-img{
+    background-color: white;
+    position: absolute;
+    top: 70px;
+    left: 113px;
+    height: 510px;
+    box-shadow: 10px 10px 16px 0px black;
+    border-radius: 8px;
+}
+
+.omar1{
+    position: absolute;
+    top: 70px;
+    right: 118px;
+    direction: rtl;
+    box-shadow: 0px 10px 16px 0px black;
+    height: 510px;
+    text-align: center;
+    background-color: rgb(90, 79, 153);
+    width: 540px;
+    border-radius: 8px;
+}
+h1{
+    font-size: 60px;
+    color: black;
+    margin-top: 60px;
+    direction: ltr;
+}
+
+.input-one{
+    position: relative;
+    right: 0px;
+    direction: ltr;
+    border-radius: 30px;
+    padding: 17px;
+    width: 50%;
+    border: 0px;
+}
+.input-tow{
+   position: relative;
+   top: 30px;
+   direction: ltr;
+   border-radius: 30px;
+    padding: 17px;
+    width: 50%;
+    border: 0px;
+}
+.input-three{
+    position: relative;
+    top: 60px;
+    left:0px ;
+    direction: ltr;
+    border-radius: 30px ;
+    padding: 17px;
+    width: 50%;
+    border: 0px;
+}
+.creat{
+ position: absolute;
+ top:510px;
+ left: 680px;
+ background-color: rgb(252, 251, 255);
+ font-size: 20px;
+ border-radius: 20px;
+ padding: 10px;
+ border: 0px;
+ cursor: pointer;
+ font-family: Helvetica;
+ width: 150px;
+}
+.sign{
+ position: absolute;
+ top: 510px;
+ left: 900px;
+ font-size: 20px;
+ font-family: Helvetica;
+ border-radius: 20px ;
+ padding: 10px;
+ background-color: rgb(40, 9, 218);
+ color: white;
+ border: 0px;
+ cursor: pointer;
+ width: 180px;
+}
